@@ -21,4 +21,15 @@
     <color name="bs_black">#000</color>
     <color name="bs_white">#fff</color>
     <color name="bs_gray">#6c757d</color>
+
+    <color name="bs_blue_700">#0a53be</color>
+    <color name="bs_red_700">#a52834</color>
+
+    <color name="color_primary">@color/bs_blue</color>
+    <color name="color_primary_variant">@color/bs_blue_700</color>
+    <color name="color_on_primary">@color/bs_white</color>
+
+    <color name="color_secondary">@color/bs_red</color>
+    <color name="color_secondary_variant">@color/bs_red_700</color>
+    <color name="color_on_secondary">@color/bs_white</color>
 </resources>
